@@ -1,5 +1,6 @@
 # 🚀 Pipeline com Python e GitHub Actions
 Linha exclusiva da develop
+ATT DEVELOP
 
 Este repositório é um **exemplo didático** de como configurar uma pipeline simples 
 usando **Python + pytest** no **GitHub Actions**.
